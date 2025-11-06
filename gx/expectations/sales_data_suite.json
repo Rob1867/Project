@@ -1,0 +1,19 @@
+{
+  "expectations": [
+    {
+      "id": "96d6a342-f51e-43d6-94e8-fadf913fd936",
+      "kwargs": {
+        "column": "Script Activity ID"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_unique"
+    }
+  ],
+  "id": "21f6aa27-dba8-4644-b58c-d80ed5ffd19f",
+  "meta": {
+    "great_expectations_version": "1.8.1"
+  },
+  "name": "sales_data_suite",
+  "notes": null
+}
