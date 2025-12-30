@@ -1,0 +1,8 @@
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore environment files
+.env
+
+uncommitted/

@@ -1,0 +1,75 @@
+{
+  "expectations": [
+    {
+      "id": "a2ecc386-b6ee-44bf-8196-dd42ccbbcbcd",
+      "kwargs": {
+        "column": "Script Activity ID"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "de0d4afb-d6cc-4591-85e6-e226b575a119",
+      "kwargs": {
+        "column": "Installed Component",
+        "value_set": [
+          "VT",
+          "PI",
+          "DIS",
+          "ESW",
+          "ERT",
+          "CSE",
+          "CT",
+          "TAP",
+          "HVB",
+          "GCB",
+          "SGT",
+          "SA",
+          "BLDS",
+          "VCT",
+          "ABC",
+          "NOI",
+          "LVB",
+          "FNCE",
+          "GAN",
+          "ROAD",
+          "TRCH",
+          "OCB",
+          "BUS",
+          "EAT",
+          "BUC",
+          "BUA",
+          "BUB",
+          "COM",
+          "PNL",
+          "AUX",
+          "QB",
+          "REA",
+          "ENV",
+          "GZ",
+          "0",
+          "TXM",
+          "MSC",
+          "SPI",
+          "CT",
+          "BB",
+          "GEN",
+          "HES",
+          "CBR",
+          "LIT",
+          "FIL"
+        ]
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_distinct_values_to_be_in_set"
+    }
+  ],
+  "id": "96553167-bab1-4fcf-bf44-4b6aa3236b07",
+  "meta": {
+    "great_expectations_version": "1.8.1"
+  },
+  "name": "VI_data_suite",
+  "notes": null
+}

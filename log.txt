@@ -16,3 +16,41 @@
 2025-11-03 16:45:31,368 - ERROR - Error reading file: [Errno 13] Permission denied: 'C:\\Users\\robert.everitt\\OneDrive - National Grid\\Data Engineering Course\\Project\\Project\\Data\\VI_E0309B_Test.xlsx'
 2025-11-03 16:46:25,041 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Test.xlsx
 2025-11-03 16:46:28,423 - INFO - Sucessully read data
+2025-12-29 10:58:48,743 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Test.xlsx
+2025-12-29 10:58:53,656 - INFO - Sucessully read data
+2025-12-29 11:06:05,996 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-29 11:09:07,923 - INFO - Sucessully read data
+2025-12-29 14:49:07,831 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-29 14:49:07,917 - INFO - Sucessully read data
+2025-12-29 14:49:11,963 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-29 14:49:12,004 - INFO - Sucessully read data
+2025-12-29 14:56:21,943 - INFO - Date consistancy check passed
+2025-12-29 15:10:18,847 - INFO - Date consistency check passed
+2025-12-29 15:10:36,231 - INFO - Date consistency check passed
+2025-12-30 09:08:04,176 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 09:10:02,726 - INFO - Sucessully read data
+2025-12-30 09:10:17,898 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 09:10:18,020 - INFO - Sucessully read data
+2025-12-30 09:10:31,286 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 09:10:31,329 - INFO - Sucessully read data
+2025-12-30 09:15:42,924 - INFO - Date consistency check passed
+2025-12-30 09:38:27,187 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Test.xlsx
+2025-12-30 09:38:30,099 - INFO - Sucessully read data
+2025-12-30 09:38:35,853 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 09:38:35,895 - INFO - Sucessully read data
+2025-12-30 09:38:42,049 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 09:38:42,089 - INFO - Sucessully read data
+2025-12-30 09:40:14,066 - INFO - Date consistency check passed
+2025-12-30 09:44:23,471 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 09:44:50,241 - INFO - Sucessully read data
+2025-12-30 10:29:20,926 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 10:29:20,980 - INFO - Sucessully read data
+2025-12-30 10:29:25,244 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 10:29:25,286 - INFO - Sucessully read data
+2025-12-30 10:36:29,170 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 10:36:58,916 - INFO - Sucessully read data
+2025-12-30 10:36:58,929 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 10:36:59,006 - INFO - Sucessully read data
+2025-12-30 10:36:59,020 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 10:36:59,048 - INFO - Sucessully read data
+2025-12-30 10:37:19,306 - INFO - Date consistency check passed
