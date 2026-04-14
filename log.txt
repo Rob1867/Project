@@ -54,3 +54,367 @@
 2025-12-30 10:36:59,020 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
 2025-12-30 10:36:59,048 - INFO - Sucessully read data
 2025-12-30 10:37:19,306 - INFO - Date consistency check passed
+2025-12-30 11:20:41,965 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 11:21:12,825 - INFO - Sucessully read data
+2025-12-30 11:21:12,840 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 11:21:12,897 - INFO - Sucessully read data
+2025-12-30 11:21:12,908 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 11:21:12,935 - INFO - Sucessully read data
+2025-12-30 11:30:38,751 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 11:31:16,770 - INFO - Sucessully read data
+2025-12-30 11:31:16,784 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 11:31:16,842 - INFO - Sucessully read data
+2025-12-30 11:31:16,855 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 11:31:16,882 - INFO - Sucessully read data
+2025-12-30 11:31:34,393 - INFO - Date consistency check passed
+2025-12-30 11:35:28,043 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 11:35:57,855 - INFO - Sucessully read data
+2025-12-30 11:35:57,867 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 11:35:57,910 - INFO - Sucessully read data
+2025-12-30 11:35:57,921 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 11:35:57,935 - INFO - Sucessully read data
+2025-12-30 11:36:13,903 - INFO - Date consistency check passed
+2025-12-30 11:36:29,204 - WARNING - Matplotlib is building the font cache; this may take a moment.
+2025-12-30 11:36:29,383 - INFO - generated new fontManager
+2025-12-30 11:52:01,631 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 11:52:31,129 - INFO - Sucessully read data
+2025-12-30 11:52:31,149 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 11:52:31,225 - INFO - Sucessully read data
+2025-12-30 11:52:31,238 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 11:52:31,251 - INFO - Sucessully read data
+2025-12-30 11:52:49,418 - INFO - Date consistency check passed
+2025-12-30 13:38:56,640 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 13:39:26,468 - INFO - Sucessully read data
+2025-12-30 13:39:26,482 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 13:39:26,534 - INFO - Sucessully read data
+2025-12-30 13:39:26,546 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 13:39:26,573 - INFO - Sucessully read data
+2025-12-30 13:39:43,020 - INFO - Date consistency check passed
+2025-12-30 14:00:58,127 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 14:01:32,287 - INFO - Sucessully read data
+2025-12-30 14:01:32,305 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 14:01:32,400 - INFO - Sucessully read data
+2025-12-30 14:01:32,421 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 14:01:32,471 - INFO - Sucessully read data
+2025-12-30 14:01:56,360 - INFO - Date consistency check passed
+2025-12-30 14:10:29,910 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 14:10:59,011 - INFO - Sucessully read data
+2025-12-30 14:10:59,024 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 14:10:59,086 - INFO - Sucessully read data
+2025-12-30 14:10:59,098 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 14:10:59,145 - INFO - Sucessully read data
+2025-12-30 14:11:15,681 - INFO - Date consistency check passed
+2025-12-30 14:47:52,821 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 14:48:20,614 - INFO - Sucessully read data
+2025-12-30 14:48:20,649 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 14:48:20,701 - INFO - Sucessully read data
+2025-12-30 14:48:20,737 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 14:48:20,762 - INFO - Sucessully read data
+2025-12-30 14:48:37,068 - INFO - Date consistency check passed
+2025-12-30 15:41:36,785 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 15:42:09,132 - INFO - Sucessully read data
+2025-12-30 15:42:09,184 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 15:42:09,232 - INFO - Sucessully read data
+2025-12-30 15:42:09,265 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 15:42:09,288 - INFO - Sucessully read data
+2025-12-30 15:42:27,751 - INFO - Date consistency check passed
+2025-12-30 15:45:08,888 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 15:45:36,874 - INFO - Sucessully read data
+2025-12-30 15:45:36,913 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 15:45:36,941 - INFO - Sucessully read data
+2025-12-30 15:45:36,974 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 15:45:36,984 - INFO - Sucessully read data
+2025-12-30 15:45:52,739 - INFO - Date consistency check passed
+2025-12-30 16:00:23,381 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-30 16:00:58,909 - INFO - Sucessully read data
+2025-12-30 16:00:58,958 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-30 16:00:59,022 - INFO - Sucessully read data
+2025-12-30 16:00:59,057 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-30 16:00:59,097 - INFO - Sucessully read data
+2025-12-30 16:01:16,487 - INFO - Date consistency check passed
+2025-12-31 09:36:19,772 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-31 09:36:48,783 - INFO - Sucessully read data
+2025-12-31 09:36:48,795 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-31 09:36:48,882 - INFO - Sucessully read data
+2025-12-31 09:36:48,893 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-31 09:36:48,921 - INFO - Sucessully read data
+2025-12-31 09:37:06,021 - INFO - Date consistency check passed
+2025-12-31 10:51:33,387 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-31 10:52:05,564 - INFO - Sucessully read data
+2025-12-31 11:04:06,673 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-31 11:04:40,922 - INFO - Sucessully read data
+2025-12-31 11:04:40,944 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-31 11:04:41,013 - INFO - Sucessully read data
+2025-12-31 11:04:41,024 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-31 11:04:41,051 - INFO - Sucessully read data
+2025-12-31 11:05:00,820 - INFO - Date consistency check passed
+2025-12-31 11:40:29,848 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2025-12-31 11:41:05,179 - INFO - Sucessully read data
+2025-12-31 11:41:10,454 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2025-12-31 11:41:10,534 - INFO - Sucessully read data
+2025-12-31 11:41:17,999 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2025-12-31 11:41:18,049 - INFO - Sucessully read data
+2025-12-31 11:46:00,060 - ERROR - Date consistency check failed
+2025-12-31 11:47:58,566 - ERROR - Date consistency check failed
+2026-01-02 11:49:19,467 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2026-01-02 11:49:47,122 - INFO - Sucessully read data
+2026-01-02 11:49:47,134 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-01-02 11:49:47,208 - INFO - Sucessully read data
+2026-01-02 11:49:47,221 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-01-02 11:49:47,247 - INFO - Sucessully read data
+2026-01-02 11:50:03,470 - INFO - Visual inspection data cleansed and standardized
+2026-01-02 11:50:03,497 - INFO - Unavailable assets stored in df_not_available
+2026-01-02 11:50:03,550 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-01-02 11:50:04,244 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-01-02 11:50:04,464 - ERROR - Date consistency check failed
+2026-01-02 11:53:49,693 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-01-02 11:59:11,602 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-01-06 16:00:40,831 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2026-01-06 16:00:40,836 - ERROR - Error reading file: [Errno 13] Permission denied: 'C:\\Users\\robert.everitt\\OneDrive - National Grid\\Data Engineering Course\\Data\\VI_E0309B_Full.xlsx'
+2026-01-27 16:00:31,353 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2026-01-27 16:00:58,264 - INFO - Sucessully read data
+2026-01-27 16:00:58,317 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-01-27 16:00:58,384 - INFO - Sucessully read data
+2026-01-27 16:00:58,423 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-01-27 16:00:58,476 - INFO - Sucessully read data
+2026-01-27 16:01:14,983 - INFO - Visual inspection data cleansed and standardized
+2026-01-27 16:01:15,035 - INFO - Unavailable assets stored in df_not_available
+2026-01-27 16:01:15,096 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-01-27 16:01:15,802 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-01-27 16:01:16,020 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-01-27 16:01:16,059 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-01-27 16:01:16,168 - ERROR - Date consistency check failed
+2026-02-03 16:00:35,629 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2026-02-03 16:01:10,575 - INFO - Sucessully read data
+2026-02-03 16:01:10,650 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-02-03 16:01:10,726 - INFO - Sucessully read data
+2026-02-03 16:01:10,778 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-02-03 16:01:10,820 - INFO - Sucessully read data
+2026-02-03 16:01:29,958 - INFO - Visual inspection data cleansed and standardized
+2026-02-03 16:01:30,008 - INFO - Unavailable assets stored in df_not_available
+2026-02-03 16:01:30,073 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-02-03 16:01:30,984 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-02-03 16:01:31,263 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-02-03 16:01:31,307 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-02-03 16:01:31,448 - ERROR - Date consistency check failed
+2026-02-06 15:57:02,452 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2026-02-06 15:59:06,647 - INFO - Sucessully read data
+2026-02-06 15:59:06,662 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-02-06 15:59:06,840 - INFO - Sucessully read data
+2026-02-06 15:59:06,855 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-02-06 15:59:06,891 - INFO - Sucessully read data
+2026-02-06 16:00:31,912 - INFO - Visual inspection data cleansed and standardized
+2026-02-06 16:00:32,006 - INFO - Unavailable assets stored in df_not_available
+2026-02-06 16:00:32,347 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-02-06 16:00:36,577 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-02-06 16:00:36,809 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-02-06 16:00:36,882 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-02-06 16:00:36,973 - ERROR - Date consistency check failed
+2026-02-06 16:18:04,624 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2026-02-06 16:23:43,093 - INFO - Sucessully read data
+2026-02-06 16:23:43,114 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-02-06 16:23:43,390 - INFO - Sucessully read data
+2026-02-06 16:23:43,413 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-02-06 16:23:43,477 - INFO - Sucessully read data
+2026-02-06 16:25:33,140 - INFO - Visual inspection data cleansed and standardized
+2026-02-06 16:25:33,213 - INFO - Unavailable assets stored in df_not_available
+2026-02-06 16:25:33,484 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-02-06 16:25:37,270 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-02-06 16:25:37,488 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-02-06 16:25:37,561 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-02-06 16:25:37,667 - ERROR - Date consistency check failed
+2026-02-06 16:34:37,557 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\VI_E0309B_Full.xlsx
+2026-02-06 16:36:46,725 - INFO - Sucessully read data
+2026-02-06 16:36:46,738 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-02-06 16:36:46,897 - INFO - Sucessully read data
+2026-02-06 16:36:46,912 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-02-06 16:36:46,962 - INFO - Sucessully read data
+2026-02-06 16:38:14,843 - INFO - Visual inspection data cleansed and standardized
+2026-02-06 16:38:14,916 - INFO - Unavailable assets stored in df_not_available
+2026-02-06 16:38:15,124 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-02-06 16:38:18,631 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-02-06 16:38:18,836 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-02-06 16:38:18,906 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-02-06 16:38:18,989 - ERROR - Date consistency check failed
+2026-02-06 17:30:06,795 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-02-06 17:35:15,538 - INFO - Sucessully read data
+2026-02-06 17:35:15,571 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-02-06 17:35:15,830 - INFO - Sucessully read data
+2026-02-06 17:35:15,853 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-02-06 17:35:15,899 - INFO - Sucessully read data
+2026-02-06 17:40:33,548 - INFO - Visual inspection data cleansed and standardized
+2026-02-06 17:40:33,998 - INFO - Unavailable assets stored in df_not_available
+2026-02-06 17:40:35,161 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-02-06 17:40:54,245 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-02-06 17:40:55,068 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-02-06 17:40:55,357 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-02-06 17:40:55,871 - INFO - Date consistency check passed
+2026-02-10 16:00:34,463 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-02-10 16:03:06,229 - INFO - Sucessully read data
+2026-02-10 16:03:06,298 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-02-10 16:03:06,525 - INFO - Sucessully read data
+2026-02-10 16:03:06,571 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-02-10 16:03:06,641 - INFO - Sucessully read data
+2026-02-10 16:04:47,735 - INFO - Visual inspection data cleansed and standardized
+2026-02-10 16:04:47,840 - INFO - Unavailable assets stored in df_not_available
+2026-02-10 16:04:48,106 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-02-10 16:04:52,933 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-02-10 16:04:53,354 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-02-10 16:04:53,450 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-02-10 16:04:53,672 - INFO - Date consistency check passed
+2026-02-24 16:00:35,750 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-02-24 16:04:02,146 - INFO - Sucessully read data
+2026-02-24 16:04:02,262 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-02-24 16:04:02,561 - INFO - Sucessully read data
+2026-02-24 16:04:02,661 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-02-24 16:04:02,727 - INFO - Sucessully read data
+2026-02-24 16:07:21,925 - INFO - Visual inspection data cleansed and standardized
+2026-02-24 16:07:22,087 - INFO - Unavailable assets stored in df_not_available
+2026-02-24 16:07:22,387 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-02-24 16:07:32,574 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-02-24 16:07:33,556 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-02-24 16:07:33,748 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-02-24 16:07:34,233 - INFO - Date consistency check passed
+2026-03-02 15:36:56,605 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-02 15:39:11,014 - INFO - Sucessully read data
+2026-03-02 15:39:11,025 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-02 15:39:11,150 - INFO - Sucessully read data
+2026-03-02 15:39:11,161 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-02 15:39:11,206 - INFO - Sucessully read data
+2026-03-02 15:40:48,164 - INFO - Visual inspection data cleansed and standardized
+2026-03-02 15:40:48,257 - INFO - Unavailable assets stored in df_not_available
+2026-03-02 15:40:48,564 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-02 15:40:54,181 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-02 15:40:54,490 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-02 15:40:54,578 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-02 15:40:54,699 - INFO - Date consistency check passed
+2026-03-02 18:15:26,443 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-02 18:18:23,577 - INFO - Sucessully read data
+2026-03-02 18:18:23,592 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-02 18:18:23,776 - INFO - Sucessully read data
+2026-03-02 18:18:23,790 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-02 18:18:23,820 - INFO - Sucessully read data
+2026-03-02 18:20:16,972 - INFO - Visual inspection data cleansed and standardized
+2026-03-02 18:20:17,082 - INFO - Unavailable assets stored in df_not_available
+2026-03-02 18:20:17,427 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-02 18:20:23,191 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-02 18:20:23,458 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-02 18:20:23,554 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-02 18:20:23,667 - INFO - Date consistency check passed
+2026-03-03 16:00:34,280 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-03 16:03:13,738 - INFO - Sucessully read data
+2026-03-03 16:03:13,808 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-03 16:03:13,973 - INFO - Sucessully read data
+2026-03-03 16:03:14,023 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-03 16:03:14,068 - INFO - Sucessully read data
+2026-03-03 16:04:55,220 - INFO - Visual inspection data cleansed and standardized
+2026-03-03 16:04:55,348 - INFO - Unavailable assets stored in df_not_available
+2026-03-03 16:04:55,549 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-03 16:05:00,771 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-03 16:05:01,159 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-03 16:05:01,244 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-03 16:05:01,480 - INFO - Date consistency check passed
+2026-03-05 16:14:33,725 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-05 16:16:45,248 - INFO - Sucessully read data
+2026-03-05 16:16:45,260 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-05 16:16:45,402 - INFO - Sucessully read data
+2026-03-05 16:16:45,414 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-05 16:16:45,438 - INFO - Sucessully read data
+2026-03-05 16:18:29,549 - INFO - Visual inspection data cleansed and standardized
+2026-03-05 16:18:29,657 - INFO - Unavailable assets stored in df_not_available
+2026-03-05 16:18:30,004 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-05 16:18:38,122 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-05 16:18:38,553 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-05 16:18:38,650 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-05 16:18:38,817 - INFO - Date consistency check passed
+2026-03-05 16:25:39,437 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-05 16:27:57,023 - INFO - Sucessully read data
+2026-03-05 16:27:57,036 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-05 16:27:57,202 - INFO - Sucessully read data
+2026-03-05 16:27:57,215 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-05 16:27:57,230 - INFO - Sucessully read data
+2026-03-05 16:29:31,337 - INFO - Visual inspection data cleansed and standardized
+2026-03-05 16:29:31,419 - INFO - Unavailable assets stored in df_not_available
+2026-03-05 16:29:31,673 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-05 16:29:35,653 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-05 16:29:35,856 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-05 16:29:35,930 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-05 16:29:36,047 - INFO - Date consistency check passed
+2026-03-07 10:00:10,748 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-07 10:05:13,311 - INFO - Sucessully read data
+2026-03-07 10:05:13,328 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-07 10:05:13,549 - INFO - Sucessully read data
+2026-03-07 10:05:13,567 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-07 10:05:13,609 - INFO - Sucessully read data
+2026-03-07 10:09:33,679 - INFO - Visual inspection data cleansed and standardized
+2026-03-07 10:09:33,836 - INFO - Unavailable assets stored in df_not_available
+2026-03-07 10:09:34,202 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-07 10:09:42,732 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-07 10:09:43,217 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-07 10:09:43,325 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-07 10:09:43,461 - INFO - Date consistency check passed
+2026-03-09 11:29:52,905 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-09 11:32:02,764 - INFO - Sucessully read data
+2026-03-09 11:37:04,902 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-09 11:37:05,076 - INFO - Sucessully read data
+2026-03-09 11:37:07,800 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-09 11:37:07,838 - INFO - Sucessully read data
+2026-03-09 11:39:17,045 - INFO - Visual inspection data cleansed and standardized
+2026-03-09 11:39:22,493 - INFO - Unavailable assets stored in df_not_available
+2026-03-09 11:39:26,213 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-09 11:39:40,986 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-09 11:39:56,918 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-09 11:40:02,988 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-09 11:40:30,672 - INFO - Date consistency check passed
+2026-03-10 16:00:37,853 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-10 16:03:01,053 - INFO - Sucessully read data
+2026-03-10 16:03:01,136 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-10 16:03:01,328 - INFO - Sucessully read data
+2026-03-10 16:03:01,380 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-10 16:03:01,445 - INFO - Sucessully read data
+2026-03-10 16:04:36,476 - INFO - Visual inspection data cleansed and standardized
+2026-03-10 16:04:36,613 - INFO - Unavailable assets stored in df_not_available
+2026-03-10 16:04:36,959 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-10 16:04:41,096 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-10 16:04:41,461 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-10 16:04:41,538 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-10 16:04:41,789 - INFO - Date consistency check passed
+2026-03-24 16:00:35,288 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-03-24 16:02:49,132 - INFO - Sucessully read data
+2026-03-24 16:02:49,188 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-03-24 16:02:49,339 - INFO - Sucessully read data
+2026-03-24 16:02:49,386 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-03-24 16:02:49,422 - INFO - Sucessully read data
+2026-03-24 16:04:42,174 - INFO - Visual inspection data cleansed and standardized
+2026-03-24 16:04:42,300 - INFO - Unavailable assets stored in df_not_available
+2026-03-24 16:04:42,659 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-03-24 16:04:48,516 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-03-24 16:04:49,034 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-03-24 16:04:49,129 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-03-24 16:04:49,373 - INFO - Date consistency check passed
+2026-04-07 16:01:02,267 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-04-07 16:03:29,059 - INFO - Sucessully read data
+2026-04-07 16:03:29,121 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-04-07 16:03:29,285 - INFO - Sucessully read data
+2026-04-07 16:03:29,339 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-04-07 16:03:29,377 - INFO - Sucessully read data
+2026-04-07 16:05:02,536 - INFO - Visual inspection data cleansed and standardized
+2026-04-07 16:05:02,640 - INFO - Unavailable assets stored in df_not_available
+2026-04-07 16:05:02,890 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-04-07 16:05:07,065 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-04-07 16:05:07,434 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-04-07 16:05:07,513 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-04-07 16:05:07,693 - INFO - Date consistency check passed
+2026-04-14 16:00:31,477 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Visual inspections Results (E0309B).xlsx
+2026-04-14 16:02:37,184 - INFO - Sucessully read data
+2026-04-14 16:02:37,246 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Importance_Scores.xlsx
+2026-04-14 16:02:37,434 - INFO - Sucessully read data
+2026-04-14 16:02:37,485 - INFO - Attempting to read data from C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\Data\Script_Versions.xlsx
+2026-04-14 16:02:37,552 - INFO - Sucessully read data
+2026-04-14 16:04:06,097 - INFO - Visual inspection data cleansed and standardized
+2026-04-14 16:04:06,322 - INFO - Unavailable assets stored in df_not_available
+2026-04-14 16:04:06,697 - INFO - Assets with no deterioration reported stored in df_no_deterioration
+2026-04-14 16:04:10,456 - INFO - Civil Items and Photos identified in df_vi_civil
+2026-04-14 16:04:10,829 - INFO - The following script IDs have version issues: ['RVSGANAA', 'RVSCIVAA']
+2026-04-14 16:04:10,911 - INFO - 2 rows with script version issues removed and stored in probematic_scripts.csv
+2026-04-14 16:04:11,174 - INFO - Date consistency check passed
