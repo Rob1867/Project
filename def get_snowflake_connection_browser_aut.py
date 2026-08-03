@@ -38,6 +38,7 @@ def get_snowflake_connection_browser_auth() -> SnowflakeConnection:
 
     )
 
+
 def extract_data_from_table(con, table_name) -> pd.DataFrame:
     """
     Extracts all data from the specified table and returns it as a Pandas DataFrame.
@@ -53,12 +54,27 @@ def extract_data_from_table(con, table_name) -> pd.DataFrame:
     #use fetch many
  
     with con.cursor() as curs:
-        curs.execute(f"SELECT * FROM {table_name};")
+        curs.execute("""SELECT *FROM AOCONC_PROD.DATASETS.VISUAL_INSPECTIONS_RESULTS_RS_V3 LIMIT 100""")
         rows = curs.fetchall()
         columns = [desc[0].lower() for desc in curs.description]
         return pd.DataFrame(rows, columns=columns)
     
 con = get_snowflake_connection_browser_auth()
 
-df = extract_data_from_table(con, "VISUAL_INSPECTIONS_RESULTS_RS_V1")
+cursor = con.cursor()
+cursor.execute("SELECT CURRENT_DATABASE()")
+
+print("Database:", cursor.fetchone())
+
+cursor.execute("SELECT CURRENT_SCHEMA()")
+
+print("Schema:", cursor.fetchone())
+
+cursor.execute("SELECT CURRENT_ROLE()")
+
+print("Role:", cursor.fetchone())
+
+df = extract_data_from_table(con, "VISUAL_INSPECTIONS_RESULTS_RS_V3")
 print(df)
+
+df.to_excel(r'C:\Users\robert.everitt\OneDrive - National Grid\Data Engineering Course\snowflake_test.xlsx')
